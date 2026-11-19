@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<!-- SIMULATED TRAINING VISUAL. FICTIONAL DATA; NOT A REAL TOOL CAPTURE. -->
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#172b3c"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#bg)"/><rect x="24" y="24" width="1152" height="672" rx="18" fill="#0b1220" stroke="#42566c" stroke-width="2"/>
+<rect x="24" y="24" width="1152" height="58" rx="18" fill="#26364a"/><circle cx="58" cy="53" r="8" fill="#f87171"/><circle cx="86" cy="53" r="8" fill="#fbbf24"/><circle cx="114" cy="53" r="8" fill="#4ade80"/>
+<text x="150" y="61" fill="#dbeafe" font-family="Arial,sans-serif" font-size="21">HTTP Request Editor</text>
+<rect x="48" y="112" width="1104" height="490" rx="10" fill="#101c2b" stroke="#334155"/>
+<text x="72" y="151" fill="#60a5fa" font-family="Arial,sans-serif" font-size="22" font-weight="bold">HTTP REQUEST EDITOR</text>
+<text x="42" y="180" class="line">GET /api/v1/items?limit=10</text>
+<text x="42" y="223" class="line">Host: 127.0.0.1:8888</text>
+<text x="42" y="266" class="line">Accept: application/json</text>
+<text x="42" y="309" class="line">Response: 200 OK (fictional)</text>
+<text x="42" y="352" class="line">Content-Type: application/json</text>
+<rect x="48" y="620" width="1104" height="48" rx="8" fill="#4b1d1d" stroke="#ef4444"/>
+<text x="600" y="651" text-anchor="middle" fill="#fecaca" font-family="Arial,sans-serif" font-size="19" font-weight="bold">SIMULATED • FICTIONAL TRAINING DATA • NOT REAL SCAN EVIDENCE</text>
+</svg>
